@@ -1,0 +1,7 @@
+{
+  "name": "gitflow",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Christian Oliveira <christian.soliveira@outlook.com>",
+  "license": "MIT"
+}
